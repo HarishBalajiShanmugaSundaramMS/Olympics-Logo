@@ -5,5 +5,7 @@ ___
 
 <img src='./Olympics.png' width=300>
 
+<img src='./Olympics.gif' width=300>
+
 
 
